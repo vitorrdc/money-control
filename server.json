@@ -1,0 +1,76 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-07-07T10:03:05.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 100,
+      "createdAt": "2024-07-07T08:12:05.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Curso Especialização",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 350,
+      "createdAt": "2024-07-07T06:47:05.505Z"
+    },
+    {
+      "description": "Desenvolvimento de APP",
+      "price": 5000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-07-25T12:38:19.017Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "price": 8,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-07-25T12:58:31.556Z",
+      "id": 5
+    },
+    {
+      "description": "Salário",
+      "price": 5230,
+      "category": "Salário",
+      "type": "income",
+      "createdAt": "2024-07-25T13:15:45.308Z",
+      "id": 6
+    },
+    {
+      "description": "Caldo de Cana",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "income",
+      "createdAt": "2024-07-25T14:10:28.473Z",
+      "id": 7
+    },
+    {
+      "description": "Hopi Hari",
+      "price": 300,
+      "category": "Lazer",
+      "type": "outcome",
+      "createdAt": "2024-07-25T14:48:15.813Z",
+      "id": 8
+    },
+    {
+      "description": "Pizza Hut",
+      "price": 180,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-07-25T17:52:27.815Z",
+      "id": 9
+    }
+  ]
+}
